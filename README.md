@@ -1,2 +1,2 @@
 # faking-it
-WIP multiplayer game to demo with friends
+WIP multiplayer game inspired by "Faking It" series on YT
